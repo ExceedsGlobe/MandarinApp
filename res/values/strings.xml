@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MandarinApp</string>
+    <string name="string_numbers">Numbers</string>
+    <string name="string_pharses">Phrases</string>
+    <string name="string_colors">Colors</string>
+    <string name="string_family">Family Members</string>
+</resources>
